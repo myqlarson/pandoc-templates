@@ -1,0 +1,9 @@
+# Appendix A #
+
+```{r, dev=c('postscript','pdf')}
+plot(rnorm(100))
+```
+
+# Appendix B #
+
+\includepdf{figure/unnamed-chunk-1.pdf}
